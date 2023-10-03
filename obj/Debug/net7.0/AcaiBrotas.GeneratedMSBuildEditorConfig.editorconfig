@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AcaiBrotas
+build_property.RootNamespace = AcaiBrotas
+build_property.ProjectDir = C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\AcaiBrotas\AcaiBrotas\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Área de Trabalho\projetoBK Brotas\AcaiBrotas\AcaiBrotas
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Produtos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Produtos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Tipos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Tipos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Tipos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Tipos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Tipos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - SESISENAISP - Escolas/Área de Trabalho/projetoBK Brotas/AcaiBrotas/AcaiBrotas/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qwv2d9uie5
